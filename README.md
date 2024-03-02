@@ -66,16 +66,16 @@ This is a full-stack authentication application built using the MERN (MongoDB, E
 ## MERN Technology Usage
 
 ### MongoDB
-MongoDB is used as the database for storing user information, including credentials and other relevant data.
+  - MongoDB is used as the database for storing user information, including credentials and other relevant data.
 
 ### Express.js
-Express.js is utilized to create the backend server for handling HTTP requests, defining routes, and interacting with the MongoDB database.
+  - Express.js is utilized to create the backend server for handling HTTP requests, defining routes, and interacting with the MongoDB database.
 
 ### React.js
-React.js is employed to develop the frontend user interface of the authentication application. It enables the creation of reusable UI components and manages the application's state efficiently.
+  - React.js is employed to develop the frontend user interface of the authentication application. It enables the creation of reusable UI components and manages the application's state efficiently.
 
 ### Node.js
-Node.js serves as the server-side JavaScript runtime environment. It executes the backend logic, including user authentication, token generation, and database interactions.
+  - Node.js serves as the server-side JavaScript runtime environment. It executes the backend logic, including user authentication, token generation, and database interactions.
 
 These technologies work together seamlessly in the MERN stack to create a robust, scalable, and efficient authentication application.
 
