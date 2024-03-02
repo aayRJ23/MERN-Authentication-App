@@ -51,7 +51,7 @@ This is a full-stack authentication application built using the MERN (MongoDB, E
   - This will start the React frontend on http://localhost:3000.  
 
 **Api:**  
-  - cd server  
+  - cd api  
   - npm start  
   - This will start the Node.js backend on http://localhost:4000.  
 
