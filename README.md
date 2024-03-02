@@ -15,7 +15,6 @@ This is a full-stack authentication application built using the MERN (MongoDB, E
 - **client/**: Frontend React application
   - **public/**: Public assets and HTML template
     - `index.html`: HTML template
-    - ... Other public assets
   - **src/**: Source code directory
     - **components/**: React components
       - `Login.js`: Component for user login
@@ -30,32 +29,31 @@ This is a full-stack authentication application built using the MERN (MongoDB, E
 - **api/**: Backend Node.js and Express server
   - **models/**: MongoDB models
     - `User.js`: Model for user data
-    - ... Other models if applicable
   - `server.js`: Express server setup
   - `package.json`: Project dependencies and scripts
 
 ## Installation
 
 ### Client Installation:
-  cd client
-  npm install
+  cd client   
+  npm install   
   
 ### Server Installation:
-  cd server
-  npm install
+  cd server   
+  npm install   
 
 ### Running the Application
   From the root directory:
 
-**Client:**
-  cd client
-  npm start
-  This will start the React frontend on http://localhost:3000.
+**Client:**   
+  cd client  
+  npm start  
+  This will start the React frontend on http://localhost:3000.  
 
-**Api:**
-  cd server
-  npm start
-  This will start the Node.js backend on http://localhost:4000.
+**Api:**  
+  cd server  
+  npm start  
+  This will start the Node.js backend on http://localhost:4000.  
 
 
 ## Usage
