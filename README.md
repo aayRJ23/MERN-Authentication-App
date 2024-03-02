@@ -35,25 +35,25 @@ This is a full-stack authentication application built using the MERN (MongoDB, E
 ## Installation
 
 ### Client Installation:
-  cd client   
-  npm install   
+  - cd client   
+  - npm install   
   
 ### Server Installation:
-  cd server   
-  npm install   
+  - cd server   
+  - npm install   
 
 ### Running the Application
-  From the root directory:
+-From the root directory:
 
 **Client:**   
-  cd client  
-  npm start  
-  This will start the React frontend on http://localhost:3000.  
+  - cd client  
+  - npm start  
+  - This will start the React frontend on http://localhost:3000.  
 
 **Api:**  
-  cd server  
-  npm start  
-  This will start the Node.js backend on http://localhost:4000.  
+  - cd server  
+  - npm start  
+  - This will start the Node.js backend on http://localhost:4000.  
 
 
 ## Usage
